@@ -9,7 +9,7 @@
 import geomerative.*;
 
 int i = 0;
-String textTyped = "TYPE_"; 
+String textTyped = "TYPE_"; //you can write your spell (end the word always with _) 
 RFont font;
 PGraphics alphaG;
 char zeichnen;
