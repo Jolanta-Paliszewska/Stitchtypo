@@ -5,6 +5,12 @@ Processing is used to explore the creative possibilities of coding, starting fro
 
 ![image] (stitchtypo.png)
 
+![image] (Typo9_1.png)
+
+![image] (A.png)
+
+![image] (Typo_5_T_R.png)
+
 This Project was made for the Input/Output.
 
 University of applied sciences in Potsdam Semester 2014/15
