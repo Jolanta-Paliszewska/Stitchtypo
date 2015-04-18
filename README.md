@@ -9,7 +9,6 @@ Processing is used to explore the creative possibilities of coding, starting fro
 
 ![image] (A.png)
 
-![image] (Typo_5_T_R.png)
 
 This Project was made for the Input/Output.
 
